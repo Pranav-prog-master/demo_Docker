@@ -1,7 +1,7 @@
-a = 5
-b = 5
+a = 4
+b = 6
 
-def add(x,y) :
+def add(x, y):
     return x + y
 
 result = add(a,b)
