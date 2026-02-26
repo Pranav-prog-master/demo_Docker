@@ -1,4 +1,4 @@
-a = 7
+a = 6
 b = 6
 
 def add(x, y):
